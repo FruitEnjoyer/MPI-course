@@ -1,7 +1,6 @@
-Compile with mpi
+Компиляция с mpi:
 mpic++ -o mpi mpi.c
 
-Run with mpi
+
+Запуск с mpi:
 mpiexec -n 2 ./mpi
-
-
