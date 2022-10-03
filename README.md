@@ -1,8 +1,8 @@
 # MPI-course
-7th semester in MIPT // MPI lessons 
+<b>7th semester in MIPT // MPI lessons</b> 
 
-Работа с удаленным сервером МФТИ: COMMANDS.txt
+<b>Работа с удаленным сервером МФТИ:</b> COMMANDS.txt
 
-Компиляция и запуск программы с mpi в консоли: RUN_CODE.txt
+<b>Компиляция и запуск программы с mpi в консоли:</b> RUN_CODE.txt
 
-bash-скрипт сценария для работы сервера: SCRIPT.sh
+<b>bash-скрипт сценария для работы сервера:</b> SCRIPT.sh
