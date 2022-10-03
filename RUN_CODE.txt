@@ -1,0 +1,7 @@
+Compile with mpi
+mpic++ -o mpi mpi.c
+
+Run with mpi
+mpiexec -n 2 ./mpi
+
+
