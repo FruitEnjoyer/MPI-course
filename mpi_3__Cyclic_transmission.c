@@ -16,7 +16,7 @@ int main(int argc, char **argv)
 	// transmission
 	MPI_Send(msg, MES_SIZE, MPI_CHAR, (rank+1)%size, 0, MPI_COMM_WORLD);
 
-	// receivery
+	// reception
 	MPI_Recv(buffer, MES_SIZE, MPI_CHAR, (rank-1+size)%size, 0, MPI_COMM_WORLD, MPI_STATUS_IGNORE);
 	
 	printf("from %i to %i received %i bytes: ", (rank-1+size)%size, rank, MES_SIZE);
