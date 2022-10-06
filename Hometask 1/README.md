@@ -9,3 +9,8 @@ b. задать свою директорию для сохранения дан
 2) Исполнить скрипт hometask.sh
 
 3) Данные из файла обработать в TXT file processing.ipynb
+
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
